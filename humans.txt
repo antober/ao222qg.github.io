@@ -1,0 +1,20 @@
+# humanstxt.org
+
+#TEAM
+
+Designer & developer: Anton Öberg <ao222qg@student.lnu.se>
+Site: https://ao222qg.github.io/
+Location: Kalmar, Sweden
+
+#THANKS
+
+Lectors: Johan Leitet, Mats Loock, John Häggerud, Jacob Lindehoff
+
+#TECHNOLOGY
+
+Jekyll
+Sass
+HTML 5
+CSS
+Javascript
+
