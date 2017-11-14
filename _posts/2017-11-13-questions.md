@@ -18,15 +18,15 @@ Mindre CSS-kod, ingen upprepning, organiserad CSS med separata filer (som tidiga
 
 Vad tycker du om static site generators? 
 
-Beror på sammanhanget, men i det här fallet när man gör en “blogg” funkar det utmärkt medan Facebook som har ett gående flöde där man slipper uppdatera själv utan det görs av sig själv med bakgrundsaktivitet osv. Statiska hemsidor är mindre komplexa och därför enklare att programmera för. Eftersom det enda jag kan i dagsläget är statiska hemsidor tycker jag det är jättebra. En nackdel kan vara är om man vill ändra något litet då man måste ändra i alla filer och då kan man lätt missa detaljer.
+Det beror på hemsidans syfte. Just i detta fallet där vi skapat en blogg så funkar det utmärkt med all förinställd funktionallitet, layout och möjligheter till teman och extensions.
 
 Vilka projekt är det bra att använda till? 
 
-Hemsidor som ska ha samma design med en global navigering, då undviker man som tidigare sagt att man slipper upprepa sig. Då många av dagens webbsidor har global navigering samt gemensam headerbild och liknande skulle jag vilja påstå majoriteten av webbsidor är static site generators bra.
+Det funkar bäst till hemsidor där man vill han en global navigering med samma design och layout på sidorna. 
 
 Vad är robots.txt och hur har du konfigurerat det för din webbplats? 
 
-I grund och botten är robots.txt en textfil som är placerad i ens webbserver. I filen talar man om vilka sökmotorer som är välkomna på sajten eller inte. Jag konfigurerade robots.txt genom att lägga den i en fri textfil i src med vilka sökmotorer jag ville skulle komma igenom. I detta fall är det bara Google.
+Robots.txt en textfil som är placerad i webbserver. I filen talar man om vilka sökmotorer man vill ska finna hemsidan. Jag konfigurerade robots.txt gemom att placera den i roten med vilka sökmotorer jag ville skulle komma igenom. Jag valde att tillåta Yahoo's och Google's sökmotorer att söka igenom min websida.
 
 Vad är humans.txt och hur har du konfigurerat det för din webbplats? E
 
