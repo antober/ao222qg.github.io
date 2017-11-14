@@ -28,9 +28,9 @@ Vad är robots.txt och hur har du konfigurerat det för din webbplats?
 
 Robots.txt en textfil som är placerad i webbserver. I filen talar man om vilka sökmotorer man vill ska finna hemsidan. Jag konfigurerade robots.txt gemom att placera den i roten med vilka sökmotorer jag ville skulle komma igenom. Jag valde att tillåta Yahoo's och Google's sökmotorer att söka igenom min websida.
 
-Vad är humans.txt och hur har du konfigurerat det för din webbplats? E
+Vad är humans.txt och hur har du konfigurerat det för din webbplats? 
 
-tt sätt att få reda/”känna” människorna bakom en webbplats. Samma som robots.txt är det en textfil som läggs direkt i src som innehåller information om de olika personerna alternativt personen som bidragit till att bygga och konstruera webbplatsen.
+Humans.txt är en fil med information om människorna som är involverade med webplatsen. Precis som filmer som har credits i slutet med alla som medverkat så har webplatser det där man presentarar vilka som varit med i utväcklings-teamet samt vilka tekniker man använt. Jag valde att presentera mig själv som utvecklare och designer av hemsidan. Jag valde med att tacka mina lektorer och handledare som presenterat mig för jekyll, samt så har jag listat upp de verktyg som jag använt under arbetets gång.
 
 Hur har du lagt till kommentarer på dina blogginlägg? 
 
