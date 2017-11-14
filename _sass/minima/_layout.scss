@@ -1,17 +1,19 @@
 /**
  * Site header
  */
+
+
 .site-header {
-  
   border-top: 5px solid $grey-color-dark;
+  background: url("../pics/fireGif.gif");
+  
+
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  min-height: $spacing-unit * 9.865;
   // Positioning context for the mobile navigation icon
   position: relative;
-}
+  
 
-.bannerWrapper {
-  background: url('../banner.jpg') no-repeat;  
 }
 
 .site-title {
@@ -104,7 +106,10 @@
   }
 }
 
-
+.img-responsive {
+  margin-left:auto;
+  margin-right:auto;
+}
 
 /**
  * Site footer
